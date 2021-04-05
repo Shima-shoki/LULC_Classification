@@ -5,7 +5,7 @@ You can access the data I used for this tutorial.
 The code itself is not well constructed since I'm only a beginner of the python, 
 but I hope this work will be helpful for someone wants to implement machine learning methods for the LULC classification with remote sensing data :)
 
-This is the study site (E140.265 to E140.657, N35.805 to N36.003)
+This is the satellite image (Sentinel-2) of the study site (E140.265 to E140.657, N35.805 to N36.003)
 ![StudySite](https://user-images.githubusercontent.com/47880765/113544941-365d3800-9624-11eb-824d-eb1750da3891.png)
 
 These are the resulting classification maps. We can see there are many solar panels in this region.<br>
